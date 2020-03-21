@@ -22,7 +22,7 @@ Go to https://shomil.web.app/explore/jumpstart.html to read the report! This dat
 
 
 
-![us_map](file:///Users/shomil/Documents/Projects/Explore-Jumpstart/Screenshots/us_map.png?lastModify=1584773820)
+![us_map](Screenshots/us_map.png)
 
 
 
