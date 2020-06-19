@@ -1,6 +1,6 @@
 # Explore Jumpstart
 
-Go to https://shomil.web.app/explore/jumpstart.html to read the report! This data was scraped from the Jumpstart recruiting platform - identities have been anonymized and stripped!
+Go to https://shomil.me/explore-jumpstart to read the report! This data was scraped from the Jumpstart recruiting platform - identities have been anonymized and stripped!
 
 
 
